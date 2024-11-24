@@ -1,0 +1,36 @@
+@font-face {
+    font-family: sans-serif;
+    src: local()
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 300px;
+}
+
+.devtext {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+.thx {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+.heart {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    color: #ff5050;
+    letter-spacing: 1px;
+}
